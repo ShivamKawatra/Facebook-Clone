@@ -1,0 +1,2 @@
+# Facebook-Clone
+This website is created as a clone website of Facebook
